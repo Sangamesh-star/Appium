@@ -54,3 +54,29 @@ This repo contains hands-on implementation of mobile automation using **Appium**
 - 💡 Covers Jenkins, GitHub, Excel, Logs, SQL  
 
 ---
+
+## 🖼️ Demo and Screenshots
+
+Comming Soon...
+
+
+---
+
+## 🤝Lets Connect  
+Let's collaborate on Data Analytics projects!  
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-red?style=for-the-badge&logo=gmail)](mailto:sangameshmkuri94@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sangamesh_M_Kuri-blue)](https://www.linkedin.com/in/sangamesh-m-kuri-034682366)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917019880436)
+[![X](https://img.shields.io/badge/X-Follow%20me-000000?style=for-the-badge&logo=twitter)](https://x.com/Sangameshkuri94)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/Sangamesh-star)  
+
+---
+**Happy Testing! 🚀**
+
+---
+
+Made with ❤️ by **Sangamesh M Kuri**  
+
+
+
+
